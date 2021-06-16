@@ -45,3 +45,6 @@
 ## Motherboard	
 - [B&H link](https://www.bhphotovideo.com/c/product/1489705-REG/msi_x570_a_pro_am4_atx.html)
 - MSI X570-A PRO ATX AM4 Motherboard    $159.99	
+
+
+[Pc Part Picker - System Builder](https://pcpartpicker.com/user/ctrader321/saved/#view=3jpMVn)
